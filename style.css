@@ -1,0 +1,33 @@
+img {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+h1 {
+    margin-left: 400px;
+}
+
+header > img {
+    margin-left: 335px;
+    width: 450px;
+    height: 450px;
+    max-width: 80%;
+    max-height: 80%;
+}
+
+header > h2 {
+    margin-left: 200px;
+}
+
+header > h3 {
+ margin-left: 200px;
+}
+
+section > a {
+    margin-left: 450px;
+}
+
+body {
+    color:blue;
+    background-color: aquamarine;
+}
